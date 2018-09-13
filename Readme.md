@@ -1,5 +1,5 @@
 ## Apache Hadoop 2.7.7 Docker images
-**[See all here](https://hub.docker.com/r/brpedromaia/hadoop/)**    
+**[See all here](https://hub.docker.com/r/brpedromaia/hadoop/)**
 # Hadoop Datanode docker image
 
 ***Note: This docker image requires *docker network running* and the following containers running: ***
